@@ -10,3 +10,9 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
+## Skills
+- Full stack integration: I excel in bridging.
+- Database Management: Skilled in both SQL
+- DevOps and Agile: Familiar with DevOps tools.
+- Problem-Solving: As a developer, I thrive  
+
